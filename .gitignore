@@ -3,4 +3,5 @@ __example.txt
 __export_code.py
 venv
 contexto.md
+__pycache__
 gerar_dados_exemplo.py
