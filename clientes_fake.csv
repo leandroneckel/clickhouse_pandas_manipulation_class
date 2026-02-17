@@ -1,0 +1,201 @@
+﻿id_cliente;nome;sexo;cpf;data_nascimento;email;telefone;cep;logradouro;numero;complemento;bairro;cidade;estado;pais;renda_mensal;data_cadastro;ativo
+1;João Felipe Borges;M;641.903.275-06;1955-12-30;barbaranovais@example.com;+55 51 2061 9610;71012-204;Travessa Maria Liz da Luz;4386;;Pompéia;Vargas;MA;Brasil;19570.48;2024-01-19;False
+2;Rodrigo Costela;M;985.034.721-04;1980-07-22;gfreitas@example.org;+55 (061) 1742-5586;76950391;Núcleo de Albuquerque;626;Bloco B;Luxemburgo;da Conceição das Flores;PI;Brasil;14100.75;2025-05-22;False
+3;Srta. Laura Monteiro;F;387.164.952-09;1948-02-18;carvalhomaria-alice@example.org;+55 (031) 4546 6019;85116086;Setor Sales;851;Apto 101;Vila Canto Do Sabiá;Alves Alegre;GO;Brasil;4673.85;2025-02-23;False
+4;Lucas Gabriel Leão;M;502.381.769-59;1995-10-08;piresdanilo@example.net;51 8424 6528;81296-602;Viaduto Asafe Ferreira;2684;;Paulo Vi;da Rosa de Lima;SE;Brasil;22788.78;2021-05-14;True
+5;Stephany Duarte;F;892.740.651-67;1951-06-13;natalia33@example.com;+55 71 6081-3830;49319515;Setor de Carvalho;1145;;Coração Eucarístico;Viana;PR;Brasil;8913.29;2025-04-25;False
+6;Dr. Arthur da Cunha;M;975.314.820-88;2006-04-04;sfernandes@example.net;+55 71 0575 6553;53260-668;Estação Fernanda Freitas;720;;Betânia;Campos Paulista;PE;Brasil;17177.75;2023-11-14;True
+7;Mateus Aragão;M;964.037.281-13;1963-03-24;knunes@example.com;+55 51 7894 5021;67278078;Largo Freitas;4781;Bloco B;Carlos Prates;Peixoto;AL;Brasil;14975.09;2025-01-25;False
+8;Laura Santos;F;905.731.842-32;1956-07-25;bfogaca@example.org;0500-072-3048;83477348;Colônia Macedo;603;Casa;Vila Aeroporto;Correia do Galho;AP;Brasil;9571.36;2024-06-19;False
+9;Pietro Camargo;M;068.421.395-89;1959-07-14;brenoda-cruz@example.org;+55 11 6006 5800;64241453;Alameda de Souza;9977;Sala 3;Marieta 1ª Seção;Martins;ES;Brasil;14773.13;2024-08-26;False
+10;Thomas Ribeiro;M;693.708.514-10;1977-07-01;cardosojoaquim@example.com;11 8907 8545;60181951;Favela de Gomes;6525;Sala 3;Conjunto Serra Verde;Cardoso do Amparo;BA;Brasil;11708.09;2021-03-04;False
+11;Aurora Farias;F;012.835.674-07;1949-03-09;cassianoian@example.com;+55 31 2057 3336;21045-653;Avenida Novaes;6137;Sala 3;Belmonte;da Cruz;MA;Brasil;2248.27;2023-02-14;True
+12;Alexandre Viana;M;984.372.560-38;2002-09-25;mandrade@example.com;(084) 5058 0416;95719836;Viela de Barbosa;7978;Casa;Das Industrias I;Silveira;MS;Brasil;5497.98;2024-10-05;False
+13;Larissa Rezende;F;892.307.546-92;1998-03-20;emanuellycirino@example.org;+55 84 9141 1504;24619-488;Viaduto Nascimento;1201;Bloco B;Capitão Eduardo;da Paz da Mata;PB;Brasil;10609.91;2023-02-16;False
+14;Caleb Camargo;M;917.632.805-86;1945-02-25;pcostela@example.org;84 2128 4626;10196-490;Viela de Nogueira;3098;Sala 3;Vila Nova Cachoeirinha 3ª Seção;das Neves;MA;Brasil;3571.7;2025-10-13;False
+15;Dr. Antônio Rios;M;248.136.507-08;1949-08-07;luigirios@example.org;81 3179-3696;13170-840;Viela Andrade;5766;Apto 101;Conjunto Califórnia Ii;Silva;AL;Brasil;11034.39;2024-08-18;True
+16;Sra. Maria Isis Farias;F;268.570.439-65;1955-06-28;ana-juliafonseca@example.net;84 4462 8881;99289917;Feira de Pires;8107;Apto 101;Vila Vista Alegre;Alves de Freitas;MA;Brasil;14288.0;2025-01-31;True
+17;João Miguel Nascimento;M;953.102.847-88;1978-07-13;laura21@example.net;0900-139-6281;83875-596;Ladeira de Fernandes;8789;Bloco B;Vila Independencia 3ª Seção;Cavalcanti de da Costa;AM;Brasil;10396.87;2021-07-29;False
+18;Sr. Léo Aparecida;M;298.563.170-02;1979-09-29;maria-vitoriamontenegro@example.net;+55 (011) 7245 8731;76506-615;Quadra Arthur Camargo;167;Apto 101;Ápia;Fonseca Alegre;SP;Brasil;12224.0;2023-02-26;True
+19;Dra. Olívia Siqueira;F;953.018.764-57;1974-04-18;ferreirajose@example.com;11 8415 3018;80978667;Estrada Cirino;5768;Casa;Maravilha;Farias;RR;Brasil;23934.79;2024-08-27;False
+20;Dr. Danilo Gonçalves;M;156.092.743-70;1970-03-09;mateusbarros@example.org;(011) 7670-6014;65551-592;Alameda Macedo;1780;Sala 3;Monte Azul;Andrade do Oeste;SE;Brasil;2971.31;2023-07-27;False
+21;João Pedro Cassiano;M;579.140.382-88;1967-08-07;maria-lauranovais@example.org;(041) 2377 5777;64167-195;Travessa Sofia Cardoso;1359;Bloco B;Flavio De Oliveira;Castro;RR;Brasil;22590.77;2024-09-01;False
+22;Pedro Miguel Rocha;M;943.621.857-55;2000-02-11;pachecohelena@example.net;+55 (084) 5722 5922;62274-939;Lago Correia;8956;Bloco B;Tupi A;Sá;MA;Brasil;2184.72;2022-10-04;False
+23;Melissa Alves;F;295.471.803-04;1961-09-10;ferreirapedro@example.org;+55 (051) 7621-8809;16234272;Núcleo de Sousa;7742;;Nossa Senhora Aparecida;Pimenta;PR;Brasil;19144.15;2023-10-09;False
+24;Marina Silveira;F;928.167.340-13;1991-05-15;liammoura@example.org;+55 31 7114-2076;83961448;Ladeira Ravy Cassiano;5708;;Vila Antena Montanhês;Correia;AC;Brasil;16519.51;2021-11-24;True
+25;Sophie da Rosa;F;712.394.085-79;1951-08-27;bporto@example.org;+55 71 5277-4177;51354-498;Colônia Albuquerque;1053;Apto 101;Vila Copasa;Freitas dos Dourados;PB;Brasil;10244.58;2024-06-03;True
+26;Felipe da Costa;M;253.871.496-64;1970-06-09;qcastro@example.net;21 6860 3739;29579507;Quadra Cauê da Costa;937;Sala 3;Alto Das Antenas;Carvalho Paulista;CE;Brasil;10599.4;2025-04-23;False
+27;Emanuel da Costa;M;829.573.401-60;1983-06-18;yda-luz@example.net;(061) 2137 4152;47879-003;Quadra Vargas;4771;Bloco B;Novo Santa Cecilia;Caldeira;PE;Brasil;10159.47;2025-05-01;False
+28;Marcelo Cardoso;M;390.576.821-68;1964-12-08;ayllagoncalves@example.net;+55 (081) 8933-0834;74286-523;Campo Freitas;2733;Sala 3;Vila Califórnia;Fonseca;AM;Brasil;10576.78;2024-11-07;True
+29;Antônio Freitas;M;906.572.834-10;2001-03-04;juliana37@example.net;(041) 3954 7947;89527-781;Conjunto de Casa Grande;7451;;Vila Cloris;Sousa do Norte;RO;Brasil;9714.18;2024-03-12;False
+30;Sabrina Ramos;F;395.017.426-52;1962-12-19;luaracarvalho@example.net;31 6630-1993;30755366;Campo de Nascimento;7029;;Jonas Veiga;Sales da Serra;TO;Brasil;5226.57;2026-01-10;False
+31;Erick Duarte;M;350.192.847-50;1946-05-21;nalmeida@example.net;+55 (081) 6121 2534;33700183;Loteamento João Guilherme Sales;5630;Sala 3;Conjunto Jatoba;Sousa de Mendes;RJ;Brasil;3962.27;2023-02-25;False
+32;Otávio Caldeira;M;715.690.834-01;2000-12-30;theocamara@example.org;+55 (041) 1494-1330;55138-401;Ladeira de Barros;9342;Casa;Vila São Gabriel Jacui;da Cruz da Praia;MT;Brasil;3682.14;2025-02-02;True
+33;Gustavo Henrique Novais;M;670.895.412-58;1958-07-14;novaesnicolas@example.com;+55 (021) 2929-9441;01481-467;Condomínio José Martins;5277;Casa;Vila Fumec;Viana;RN;Brasil;10857.0;2025-09-11;True
+34;Leonardo Nascimento;M;857.964.203-56;1998-01-23;mariadias@example.org;+55 31 7376 3645;89808-172;Recanto Lima;8277;Apto 101;Colégio Batista;Silveira de Campos;GO;Brasil;19315.71;2022-04-27;True
+35;Bryan Brito;M;945.123.708-97;2007-05-28;mouraisabel@example.com;(011) 0434-7837;33284252;Chácara Isis Fogaça;4396;Sala 3;Estoril;Leão;SC;Brasil;6926.81;2024-12-11;False
+36;André da Rocha;M;803.761.245-71;1997-07-05;silveiraravy@example.com;+55 21 0054-2691;72082122;Sítio de Nascimento;5590;Sala 3;Anchieta;Araújo;AP;Brasil;14135.53;2023-03-10;True
+37;Pietra Rios;F;895.173.402-14;2002-08-20;otavio69@example.net;(081) 8908 2234;70625978;Lago João Miguel Camargo;8066;Bloco B;Vila São Francisco;Pacheco;PR;Brasil;19758.43;2023-11-23;False
+38;Gabrielly Freitas;F;034.856.921-15;1976-01-11;noahgarcia@example.org;0300 896 5133;38832464;Viela de Cirino;5580;Bloco B;Trevo;Abreu;MA;Brasil;22990.71;2025-11-19;True
+39;Pedro Henrique Rios;M;105.736.249-25;1976-12-12;jgomes@example.net;+55 (061) 1615-3006;91345949;Lagoa Nascimento;9851;Sala 3;Conjunto Minas Caixa;Novaes de Aparecida;MA;Brasil;24303.26;2023-07-28;False
+40;Mathias Alves;M;180.257.643-62;1948-01-31;cmoreira@example.org;(011) 4586 4928;39763024;Vale Melina Aragão;860;Casa;Mala E Cuia;Moreira do Norte;DF;Brasil;21748.71;2025-03-21;False
+41;Maria Clara Sales;F;598.642.037-38;2006-10-08;thomas38@example.net;(071) 3748 8935;95657-709;Via de Brito;5170;Casa;São Lucas;Novaes Grande;PI;Brasil;6589.97;2023-08-10;False
+42;Ana Lívia da Mota;F;418.732.695-28;1993-01-25;pirespaulo@example.com;+55 11 6160 7283;38220082;Feira Fernandes;3154;Apto 101;Aparecida 7ª Seção;Mendes;SE;Brasil;10485.8;2024-05-15;True
+43;Ester Duarte;F;026.149.835-51;1997-08-06;almeidafelipe@example.com;+55 (021) 7867-0031;06338149;Passarela Martins;6150;Sala 3;Vila São Rafael;Mendes de das Neves;AP;Brasil;7738.76;2022-04-04;True
+44;Raquel Souza;F;316.248.957-19;1954-03-16;gustavo06@example.net;+55 21 7848 5579;85026667;Lago de das Neves;6038;;Vila Santo Antônio Barroquinha;Moraes do Amparo;ES;Brasil;23159.55;2026-01-17;True
+45;Maitê Ribeiro;F;614.285.037-90;1984-04-03;csilveira@example.com;+55 (061) 7500-7041;82524-212;Campo de Fonseca;8239;Sala 3;Lourdes;Moreira do Oeste;RN;Brasil;9072.5;2024-05-08;False
+46;Leonardo Cunha;M;814.629.370-04;1951-09-13;camaramaria-fernanda@example.org;+55 31 2691-5614;08325845;Trecho Camila Leão;9601;Bloco B;Vila Barragem Santa Lúcia;da Mata de Moreira;AP;Brasil;8515.08;2021-04-12;False
+47;Laís Aragão;F;346.125.908-05;1956-09-29;ana-luiza36@example.com;51 4888 5458;05027020;Conjunto Costela;3976;Bloco B;Etelvina Carneiro;Castro de Brito;SE;Brasil;7748.99;2023-02-07;False
+48;Sofia Aparecida;F;082.159.374-97;1986-10-24;maysacirino@example.org;+55 11 7531 9665;90008-498;Recanto de da Mata;4071;Bloco B;Antonio Ribeiro De Abreu 1ª Seção;Sales de Peixoto;SE;Brasil;13273.4;2025-08-26;False
+49;Maria Helena Siqueira;F;058.132.497-88;1973-01-02;cavalcantilivia@example.org;(071) 7826-6959;85559-485;Largo de Moreira;800;Apto 101;Ipe;Sá do Oeste;SP;Brasil;4398.48;2025-12-02;False
+50;Ana Sousa;F;251.643.907-52;1967-01-22;da-luzliam@example.net;+55 84 5074-1852;00961-894;Via Carvalho;2161;Bloco B;Suzana;da Cunha;PR;Brasil;14074.98;2021-11-01;False
+51;Dr. Antony Abreu;M;759.804.326-47;1989-01-01;rhavi51@example.net;(021) 9663 4215;49435-127;Colônia de da Rosa;5339;Casa;Concórdia;Pacheco;MG;Brasil;22451.02;2021-10-19;True
+52;Calebe Ramos;M;376.081.249-03;1949-12-07;giovannateixeira@example.com;(084) 9736-5671;74327-878;Lagoa Anthony Gabriel Marques;7593;Sala 3;São Gonçalo;Mendonça Verde;AM;Brasil;22640.19;2023-12-19;False
+53;Brayan Pastor;M;408.756.293-00;1981-05-10;casa-grandemirella@example.org;+55 (084) 7175-1157;11305204;Estrada Dias;5254;Bloco B;Biquinhas;Monteiro de Minas;AM;Brasil;6848.06;2022-12-16;True
+54;Dra. Lívia Teixeira;F;679.102.534-43;1964-06-23;carvalhobryan@example.com;41 6264 5695;72746550;Núcleo Yago da Luz;4671;Apto 101;Nazare;da Cruz;AM;Brasil;24892.61;2024-06-04;False
+55;Cecilia Nascimento;F;327.841.956-19;1978-12-06;rael75@example.com;0800 149 1938;09233617;Travessa Nogueira;712;Sala 3;São Jorge 2ª Seção;Silveira de Porto;MT;Brasil;1804.8;2022-04-24;True
+56;Dr. Yago Aragão;M;593.280.716-40;1970-08-25;maysaaparecida@example.net;+55 84 9224-1167;23937-909;Aeroporto de Rodrigues;764;Casa;Vila Califórnia;Pacheco;PA;Brasil;13832.15;2024-12-26;True
+57;Ana Cassiano;F;714.895.260-30;1973-07-13;samuelda-mata@example.net;+55 51 0581 0749;19126264;Estação de Nascimento;8190;Bloco B;Marieta 1ª Seção;Duarte;RR;Brasil;6767.21;2025-09-16;True
+58;Anthony Rezende;M;250.631.978-68;2002-02-12;nfogaca@example.net;+55 84 3989 6809;06170-368;Colônia Sá;7254;Sala 3;Jaqueline;da Mota de Vasconcelos;TO;Brasil;14306.59;2022-09-04;False
+59;José Duarte;M;429.103.587-04;1977-05-13;alvesana-liz@example.net;(071) 6328 0237;08233295;Feira Pinto;8532;;Carlos Prates;Santos;PE;Brasil;16433.97;2023-08-06;False
+60;Ana Beatriz Cunha;F;714.082.563-71;1973-10-20;icunha@example.net;+55 41 0759 6104;62339218;Pátio Pastor;7350;;Vila Nova Cachoeirinha 1ª Seção;Ferreira de Minas;AM;Brasil;2913.57;2025-12-30;False
+61;Mirella Brito;F;345.617.028-90;1975-07-08;lorenamoura@example.org;+55 31 7228 6717;70316084;Feira Montenegro;8476;Casa;Conjunto Novo Dom Bosco;Silva;RJ;Brasil;5115.42;2025-02-25;True
+62;Vicente Pimenta;M;632.179.854-19;1985-01-28;arthur-miguelcavalcanti@example.org;+55 (084) 3211-0728;63973860;Alameda Barbosa;3468;Apto 101;Mariquinhas;Siqueira do Amparo;BA;Brasil;24351.34;2022-06-24;True
+63;Sr. Matheus Aragão;M;853.417.692-28;1995-07-19;britorafaela@example.net;21 8836-4426;03444-587;Viela Andrade;1204;Bloco B;Ápia;Rezende;AM;Brasil;23287.75;2024-05-14;True
+64;Maria Eduarda Barros;F;921.785.063-21;1977-02-12;ana-carolinamacedo@example.org;(051) 7731-2619;45186461;Ladeira de Montenegro;5275;Sala 3;Nossa Senhora Da Conceição;Cassiano;PR;Brasil;2203.82;2024-09-22;True
+65;Ayla Aparecida;F;468.379.215-09;2001-04-23;hcavalcante@example.org;+55 (081) 0005-3067;65468-840;Feira de Cassiano;4775;Apto 101;Vila Real 2ª Seção;Cardoso;RJ;Brasil;8648.34;2024-12-08;False
+66;Alana Andrade;F;246.590.873-10;2000-08-23;marcela18@example.net;81 6488 1053;08504-162;Praça Fernandes;3474;Sala 3;Califórnia;Vasconcelos;PB;Brasil;2110.21;2023-06-19;False
+67;Dr. Anthony Gabriel da Rosa;M;749.850.623-83;1990-06-13;alvespedro-lucas@example.com;+55 31 4633 6117;16373-282;Trevo Brito;7634;Apto 101;Mineirão;Vasconcelos;PI;Brasil;11235.78;2023-02-12;False
+68;Joana Andrade;F;124.596.837-82;1982-03-14;anthony28@example.net;21 3934 6078;81095-460;Condomínio Ribeiro;9183;Apto 101;Jaraguá;Silva de Minas;CE;Brasil;10667.04;2024-05-16;False
+69;Arthur Almeida;M;071.269.348-31;1975-04-16;yviana@example.org;(011) 3164-2855;55426520;Alameda Jesus;4699;Apto 101;Vila Olhos D'água;Nunes;RN;Brasil;12677.67;2021-03-30;True
+70;Carlos Eduardo Guerra;M;062.439.587-10;1995-10-21;camargogabriela@example.org;+55 31 3464-5783;66679-997;Esplanada Gomes;1999;Bloco B;Conjunto Paulo Vi;da Mata;PB;Brasil;23272.09;2021-12-27;False
+71;José Miguel Sampaio;M;408.517.629-30;2004-08-18;cecilia33@example.com;+55 71 1736-9172;20336969;Viaduto de Martins;7292;Sala 3;Vila Havaí;Correia;RN;Brasil;9795.64;2026-01-12;False
+72;Yan da Mata;M;705.431.269-43;1955-04-18;arthurmendes@example.com;(061) 4477-0038;34256428;Largo Silva;6400;;Vila Paraíso;Moura da Praia;SC;Brasil;3984.58;2022-05-01;True
+73;Lívia Jesus;F;479.301.265-52;1954-07-12;fonsecavitor-hugo@example.com;+55 (051) 2066-5133;54231812;Parque Borges;1357;Apto 101;Vila Ecológica;Sampaio de Cavalcante;RR;Brasil;24041.81;2024-12-09;True
+74;Mariana Sá;F;407.893.152-97;1962-08-08;maria-juliadas-neves@example.org;+55 (031) 7397-5256;52846-174;Via da Paz;2067;Bloco B;Madre Gertrudes;Cirino;MA;Brasil;4803.45;2021-07-01;True
+75;Nicolas Ramos;M;351.746.820-71;1953-03-06;nsouza@example.net;+55 (084) 6210-6292;16716-164;Quadra de da Rocha;1415;Casa;Grota;Correia de Melo;MS;Brasil;2258.84;2021-02-24;True
+76;Asafe Nascimento;M;814.067.953-48;1984-03-01;maria09@example.net;0800 476 0874;97180775;Estrada Peixoto;7498;Bloco B;Boa União 1ª Seção;Mendonça;AC;Brasil;23518.56;2021-06-05;False
+77;Levi Freitas;M;784.159.206-01;1985-01-06;rrocha@example.org;+55 (071) 2856-1969;43246-827;Núcleo Pimenta;924;Apto 101;São Geraldo;Marques de Albuquerque;RR;Brasil;4188.08;2024-10-10;True
+78;Anthony Gabriel Monteiro;M;613.029.874-96;1948-07-18;costelaana-vitoria@example.net;+55 11 8079 4357;18359-980;Via Vargas;675;Casa;Vila São Gabriel;Macedo;DF;Brasil;11827.65;2022-09-05;True
+79;Enzo Pinto;M;150.429.736-99;1946-10-16;dda-cunha@example.org;84 0751-1607;11315-849;Via Sampaio;3853;Bloco B;São Tomaz;Cunha;DF;Brasil;9524.25;2023-08-14;True
+80;Calebe da Conceição;M;837.940.526-92;1982-01-05;cavalcanteluna@example.net;51 0637 1177;26550454;Vale Sá;157;Casa;Vila Real 1ª Seção;Mendonça;PR;Brasil;9193.48;2022-03-08;False
+81;Dra. Olívia Pimenta;F;801.265.374-53;2004-02-21;leodias@example.org;(031) 1243-2397;64143447;Esplanada de Rios;3751;;Beira Linha;Viana de Teixeira;CE;Brasil;2861.95;2023-09-24;True
+82;Lucas Gabriel Vieira;M;462.135.897-91;1995-03-17;garciamariane@example.net;0800 918 4042;20251-294;Recanto Cassiano;4091;Casa;Vila Piratininga Venda Nova;Rodrigues;MS;Brasil;7010.12;2025-09-15;True
+83;Vitória Peixoto;F;751.062.934-99;1986-06-17;galves@example.net;41 3756 8906;94857-618;Lagoa Luísa Cirino;6896;Sala 3;São Geraldo;Brito;PE;Brasil;10142.0;2025-09-12;True
+84;Júlia Fogaça;F;956.803.271-12;1957-03-10;luna61@example.net;(031) 1503-8766;08821-229;Quadra Maria Liz Machado;545;Sala 3;Vila Nova Cachoeirinha 1ª Seção;Jesus de Melo;PI;Brasil;8299.23;2021-12-15;False
+85;Juan Novais;M;839.127.465-91;1989-08-18;salbuquerque@example.net;31 7104 6866;39506995;Pátio de Pinto;5744;Sala 3;Grajaú;Câmara da Mata;CE;Brasil;19333.01;2022-07-06;False
+86;Antônio Cardoso;M;413.807.295-05;1963-12-12;heitorcassiano@example.com;(021) 3124-8949;09694610;Chácara Caldeira;6202;Apto 101;Vila Independencia 2ª Seção;Rezende;SC;Brasil;15835.22;2025-04-19;False
+87;Dr. Josué Carvalho;M;412.680.573-71;2006-02-27;camargogael-henrique@example.net;+55 84 5282 5086;96231-937;Distrito de Lima;9771;Sala 3;Zilah Sposito;Pimenta do Campo;PB;Brasil;6170.05;2025-02-05;True
+88;Gustavo Correia;M;206.743.159-52;2003-03-05;helenamarques@example.com;(011) 3233-5015;06523768;Sítio Montenegro;3365;Casa;Saudade;Martins;PR;Brasil;11543.23;2023-05-28;False
+89;Srta. Alexia Ferreira;F;493.180.267-22;1951-10-12;camaraemilly@example.com;0800 855 1887;58031-893;Condomínio Barros;9058;Sala 3;Biquinhas;Garcia das Pedras;AC;Brasil;5338.86;2023-07-18;True
+90;Sra. Maria Eduarda Rezende;F;913.785.246-91;1975-06-20;natalia76@example.com;21 6648 5548;72023738;Núcleo de Porto;510;Apto 101;Grota;Lima;RO;Brasil;19832.34;2021-12-19;False
+91;Calebe Macedo;M;846.230.751-17;1959-04-05;viniciusvargas@example.net;+55 (071) 9557-5529;13091301;Recanto Dante Barbosa;1652;Apto 101;Vila Maria;da Costa;SC;Brasil;24997.96;2024-04-08;True
+92;Maysa Porto;F;261.058.497-02;1968-01-03;guilherme54@example.net;(071) 5872 4710;84702-041;Parque de Campos;1987;;São Tomaz;Cunha da Prata;ES;Brasil;9986.09;2022-03-16;False
+93;Valentina Silva;F;471.895.306-57;1982-03-03;ugarcia@example.com;0800 977 9089;20138-634;Fazenda Dante Castro;2132;Casa;Gameleira;Pastor de da Cunha;MG;Brasil;11152.57;2025-02-07;False
+94;Ravi Gomes;M;035.624.897-65;1994-01-06;marcos-vinicius18@example.net;+55 (031) 7502 9002;87544625;Estação Brito;8765;;Conjunto Califórnia Ii;Cavalcanti de Moura;AC;Brasil;24416.29;2024-09-25;False
+95;Maitê Silveira;F;420.768.139-69;1959-04-23;bbarbosa@example.com;+55 11 6285 2068;11377-043;Vila de Dias;5054;Bloco B;Marieta 1ª Seção;Viana da Prata;PB;Brasil;23983.54;2022-09-18;True
+96;Mathias da Luz;M;372.804.659-00;1995-09-28;sofia41@example.com;(081) 2612 3508;14141-653;Avenida de Aragão;1856;Sala 3;João Alfredo;Vieira;TO;Brasil;3871.77;2021-12-29;False
+97;Sabrina Moraes;F;739.286.054-29;1993-01-15;diegofernandes@example.com;(071) 5800 6346;39043212;Parque da Cunha;5879;Apto 101;Maria Tereza;Oliveira;SE;Brasil;20776.58;2022-12-19;True
+98;Sara Novaes;F;106.824.573-53;2006-11-12;mateus58@example.org;+55 41 0607-4871;69331-971;Chácara da Mata;6;Bloco B;Lagoinha;da Luz do Norte;PR;Brasil;6426.91;2021-12-02;True
+99;Clarice Barros;F;056.732.941-07;1997-11-22;cecilia42@example.net;+55 (011) 3784 4463;10503-471;Vereda de Pereira;2125;;Chácara Leonina;Castro do Campo;AC;Brasil;5604.32;2022-06-03;False
+100;Alice Azevedo;F;406.137.985-20;2002-04-02;castroalexia@example.org;11 0382-0191;44379-952;Núcleo Dias;2755;Bloco B;Vila Independencia 2ª Seção;Montenegro;ES;Brasil;20959.59;2023-01-15;True
+101;Sr. Ravi Sá;M;251.906.387-40;1962-02-27;pedro-henriqueazevedo@example.com;11 3952 9525;28934-657;Distrito Lunna Fernandes;2000;Sala 3;Monte São José;Andrade;AP;Brasil;10751.68;2023-07-22;True
+102;Felipe Nascimento;M;487.650.123-80;1954-08-20;vasconceloslivia@example.com;(051) 6196 3615;28318074;Loteamento da Paz;5085;Casa;Maria Virgínia;Fernandes da Praia;PB;Brasil;15539.99;2022-05-18;False
+103;Ravi Lucca da Cunha;M;793.856.012-02;1953-02-21;andradedaniel@example.com;(031) 5973 7827;93258727;Estrada Maria Alice Gomes;2381;Casa;Vila Suzana Primeira Seção;Lopes de Casa Grande;SP;Brasil;8194.8;2022-12-18;True
+104;Isis da Conceição;F;572.149.863-37;1991-04-27;hellenadas-neves@example.net;+55 71 9847-3938;48041802;Trevo de Andrade;3473;Bloco B;Dom Cabral;Ribeiro;SE;Brasil;2556.72;2022-08-14;True
+105;Kevin Garcia;M;067.589.342-92;2008-02-12;bmarques@example.org;(084) 9856-4415;78305712;Conjunto Brito;2788;;Serrano;Aparecida de Minas;AC;Brasil;14422.17;2024-11-16;True
+106;Mariana Gonçalves;F;109.527.483-04;2005-03-24;valentinapimenta@example.com;(051) 7521-6567;22137640;Vereda de da Rosa;9475;Apto 101;Minaslandia;Fogaça de Siqueira;GO;Brasil;10916.89;2023-04-29;False
+107;Maria Júlia Porto;F;380.165.947-00;1985-01-12;maria-eduarda48@example.net;+55 11 2385-9519;95080492;Rodovia de Almeida;1223;Apto 101;Céu Azul;Sales;AL;Brasil;3607.74;2025-11-14;True
+108;Olivia Martins;F;657.280.391-03;1958-03-29;nunesalana@example.org;0500 754 2812;81707-702;Colônia Esther Castro;512;Apto 101;Vila Nossa Senhora Do Rosário;Machado Paulista;RO;Brasil;17367.37;2025-11-24;True
+109;Luigi Gomes;M;067.453.291-07;1997-02-18;enrico73@example.net;71 4932-2460;59109-385;Praça Barbosa;832;Bloco B;Sport Club;Castro do Amparo;SE;Brasil;20233.55;2024-07-10;False
+110;Esther Freitas;F;745.831.092-88;2007-11-14;sampaiojose-pedro@example.org;+55 (041) 9604 3181;11586442;Largo de Rocha;5469;Apto 101;Lagoinha Leblon;Santos;MT;Brasil;16608.67;2021-03-20;False
+111;Maria Eduarda Novaes;F;123.574.690-99;2000-02-18;luiz-miguelsa@example.org;11 8921 8023;17379-089;Aeroporto Ana Cecília Marques;1703;;Mineirão;Cavalcanti;TO;Brasil;2522.37;2024-03-03;True
+112;Rhavi Albuquerque;M;038.715.694-10;1978-05-18;bentoaraujo@example.com;0300-078-4755;52999284;Esplanada de Marques;9564;Casa;Conjunto Califórnia Ii;da Rocha de Minas;ES;Brasil;10072.58;2023-03-09;False
+113;Ana Carolina Azevedo;F;974.315.862-64;1985-01-20;miguelrocha@example.com;+55 (081) 3763-1519;99990582;Largo de Fogaça;4648;Bloco B;Pilar;Cavalcante;SP;Brasil;21347.82;2025-12-12;True
+114;Anthony Gabriel Pires;M;416.730.598-48;2004-07-28;cirinoisabelly@example.org;11 2834 6903;75213338;Lagoa Rios;9509;Sala 3;Pilar;Fonseca;AC;Brasil;18167.26;2024-06-17;True
+115;Sra. Maria Sophia Rodrigues;F;612.435.087-44;1995-09-12;marquesmariana@example.net;(084) 8795-6289;95326-616;Viela de Sousa;4036;Sala 3;Dona Clara;Marques do Amparo;SC;Brasil;12765.92;2021-09-21;False
+116;Ana Lívia Costela;F;204.316.598-42;1990-07-13;jose-pedrocarvalho@example.net;+55 (084) 5287 7215;81591960;Parque de Nascimento;7626;Casa;São José;Farias de Minas;AC;Brasil;16725.42;2025-02-25;False
+117;Raquel Mendes;F;610.827.493-03;2001-08-14;jmontenegro@example.net;61 7040 4648;09986447;Núcleo de Mendes;3256;Apto 101;Vila Atila De Paiva;Lopes do Norte;PE;Brasil;2432.41;2025-05-12;True
+118;José Oliveira;M;514.703.926-07;1961-04-06;aliciacavalcante@example.org;0800-057-6948;17228-035;Rodovia Brayan Moura;8042;Casa;Vila Vista Alegre;Almeida;TO;Brasil;19227.44;2025-06-17;True
+119;Carlos Eduardo Aragão;M;083.925.146-70;1963-10-04;breno54@example.org;+55 81 2625 0800;16505-720;Lago de Araújo;1194;Apto 101;Vila Nova Paraíso;Gonçalves do Amparo;DF;Brasil;14984.72;2024-01-19;True
+120;Gael Henrique Rezende;M;950.781.326-86;2002-06-16;antonyaragao@example.org;+55 51 2624 0104;12300-088;Condomínio de Mendonça;7998;Sala 3;Mangueiras;Alves do Sul;SP;Brasil;19264.92;2022-04-15;False
+121;Srta. Olivia Nunes;F;840.936.175-20;1969-03-11;ana-beatriz92@example.net;41 5923-4644;18888-882;Passarela de Guerra;5166;Sala 3;Salgado Filho;Pastor;RO;Brasil;16343.29;2022-07-16;False
+122;Natália Pinto;F;407.529.613-06;2007-10-05;natalia27@example.org;+55 61 9193 7240;51282642;Aeroporto Lucas Campos;5536;Bloco B;Conjunto Taquaril;Fogaça Verde;AM;Brasil;5646.7;2025-04-08;True
+123;Sr. Theo Mendonça;M;142.570.389-50;1992-08-20;andreda-cunha@example.com;11 2858-7992;43431128;Residencial Gael Nunes;8451;Apto 101;Nova Vista;Barbosa da Mata;AP;Brasil;10171.85;2024-11-08;True
+124;Lucca da Cunha;M;301.694.258-51;1976-09-17;beatriz70@example.net;+55 41 0814 1977;03036-173;Feira Vicente Silveira;2412;Apto 101;Ouro Preto;Ramos das Pedras;AC;Brasil;17608.37;2021-12-29;False
+125;Bernardo Barros;M;672.194.803-69;1970-03-19;cavalcanteleo@example.org;+55 (051) 5698-9869;90993-309;Recanto de Almeida;9145;Apto 101;Savassi;Nogueira do Norte;MG;Brasil;13452.83;2024-03-30;True
+126;Jade Rodrigues;F;654.718.290-85;2005-07-16;leocavalcante@example.org;0900-332-0917;01343-082;Conjunto Castro;8195;;Comiteco;Leão do Oeste;RS;Brasil;12559.03;2024-09-20;False
+127;Camila Camargo;F;038.714.925-23;1997-11-17;aliceoliveira@example.net;0300 355 5521;60927-000;Residencial Ribeiro;8273;Bloco B;Casa Branca;Fernandes;MG;Brasil;6782.88;2024-06-17;False
+128;Luiza da Cruz;F;249.517.380-23;1954-12-14;gael-henrique84@example.com;+55 21 5099 5625;61209570;Vereda Rodrigues;6494;Casa;Ribeiro De Abreu;Nogueira do Norte;ES;Brasil;2611.1;2026-02-02;False
+129;Bruna da Mata;F;345.968.721-55;1992-06-18;fcavalcante@example.net;+55 71 9553 8154;69785-057;Recanto de Almeida;1446;Casa;Conjunto Califórnia Ii;Sales;ES;Brasil;11920.15;2024-09-20;True
+130;Valentim Rodrigues;M;316.542.097-16;1959-01-22;da-mataanna-liz@example.net;61 6480 7466;30015-073;Jardim de da Mata;623;Casa;São Marcos;Macedo;AC;Brasil;10080.73;2024-04-24;True
+131;Ana Porto;F;573.946.218-55;1958-01-14;bruna89@example.net;41 4373-3973;14630015;Trevo Leandro Casa Grande;9644;Casa;São Damião;Vieira da Praia;RR;Brasil;17140.98;2021-11-15;True
+132;Sr. Theo Gomes;M;691.340.875-75;1992-06-23;da-costaluna@example.org;0900-078-7075;07382-611;Viela de Costela;2076;Bloco B;Vila Independencia 3ª Seção;da Mota;RO;Brasil;6254.82;2023-12-18;False
+133;Isadora Cassiano;F;150.493.768-66;1962-08-18;eda-rosa@example.com;(021) 7499-0342;88333601;Residencial Guerra;234;Casa;Olhos D'água;da Luz do Campo;DF;Brasil;23732.4;2021-09-29;True
+134;Ana Sales;F;869.021.573-59;1992-12-02;yasmin99@example.org;0900-447-3648;42759917;Área Sousa;5841;Sala 3;Nossa Senhora Do Rosário;Aparecida;MA;Brasil;8802.87;2021-07-15;True
+135;Giovanna Dias;F;031.879.465-93;1992-09-07;julianaramos@example.org;+55 (011) 5652-8954;37761-035;Estrada de Campos;3373;;Vila Do Pombal;Pimenta;ES;Brasil;4275.37;2022-06-11;True
+136;Lorenzo Correia;M;124.097.568-67;1967-04-26;silvaisabel@example.net;+55 (011) 6643 3117;25380-670;Núcleo de da Cruz;9830;Bloco B;Belmonte;Sampaio;AP;Brasil;13612.18;2025-09-06;False
+137;Joana Nascimento;F;385.104.679-00;1975-06-21;barbosaeduarda@example.net;+55 (011) 0409 8943;55438688;Viaduto da Luz;1051;Apto 101;Conjunto Lagoa;Camargo;GO;Brasil;5811.1;2025-02-05;True
+138;Milena Martins;F;397.645.280-74;1997-11-25;thalescastro@example.org;81 3384-2745;00467-394;Trecho Yan Oliveira;6795;Bloco B;Copacabana;Santos do Sul;SC;Brasil;4248.67;2024-11-14;True
+139;Camila Brito;F;912.586.037-21;1970-01-21;ravi-luccada-mota@example.com;+55 11 7182-0758;48325998;Loteamento Liam Porto;8351;Bloco B;Conjunto Bonsucesso;Costela Paulista;TO;Brasil;3909.04;2023-06-03;False
+140;Ravi Lucca Barbosa;M;879.045.631-93;1992-12-07;gabrielmendes@example.net;41 4997-1390;38210-645;Alameda de Borges;1984;Casa;Vila Independencia 2ª Seção;Moura;RJ;Brasil;5610.43;2023-04-17;True
+141;João Lucas Melo;M;581.267.940-11;1997-12-07;valves@example.net;+55 (021) 3690-7590;66945-200;Ladeira de Rios;6919;Bloco B;Barão Homem De Melo 1ª Seção;Marques de Souza;SC;Brasil;23333.68;2023-10-08;False
+142;Maria Alice Mendonça;F;817.632.409-40;1959-11-29;bryan69@example.net;+55 (061) 5899-1807;04554-817;Rua de Cunha;662;Bloco B;Urca;Pimenta da Serra;RJ;Brasil;2711.39;2022-10-25;False
+143;Cecilia da Conceição;F;436.971.085-57;1967-05-20;nataliavargas@example.com;71 9163 5734;38250729;Trevo Raul Peixoto;6168;Casa;Vila Coqueiral;Costa;GO;Brasil;10142.84;2022-11-15;True
+144;Lívia Cavalcante;F;985.367.021-68;2003-11-14;kamillycampos@example.net;+55 71 8374-6608;01452-085;Pátio de Azevedo;9924;Apto 101;Cinquentenário;Abreu do Sul;SC;Brasil;4345.69;2025-07-26;False
+145;Alexia Pires;F;385.674.901-20;1945-04-29;luiz-felipe14@example.net;+55 (081) 6369-5222;07575760;Residencial Sousa;8194;Casa;Calafate;da Rocha da Serra;GO;Brasil;2274.79;2024-01-10;True
+146;Luiza Guerra;F;674.803.159-10;1999-09-06;luna72@example.org;21 6175 5228;48110-235;Sítio Maria Vitória Barbosa;5179;Casa;Vila União;Sales;MT;Brasil;5065.11;2022-12-13;False
+147;Sarah Vasconcelos;F;120.756.943-70;1974-01-01;isabeladas-neves@example.net;0900 109 6751;75353370;Viela de Cavalcante;3710;Sala 3;Marmiteiros;Correia da Mata;RO;Brasil;19221.39;2023-10-19;True
+148;Srta. Ana Beatriz Borges;F;714.053.689-93;1998-01-16;pereiraheitor@example.org;31 6877-8118;81640669;Sítio Ravi Lucca Cavalcanti;2552;Apto 101;Vista Do Sol;Barros dos Dourados;RR;Brasil;9259.13;2025-09-28;False
+149;Benjamin da Costa;M;341.052.976-43;1979-05-14;goncalvescamila@example.org;0500 896 9298;42991-236;Avenida Ravi Lucca Fogaça;5115;Apto 101;São Jorge 3ª Seção;Jesus da Prata;RJ;Brasil;6126.81;2025-09-19;False
+150;Dra. Melissa Barbosa;F;240.851.397-97;1998-02-13;fernandesisadora@example.net;0300 957 4704;45790131;Setor da Cunha;7800;Bloco B;João Alfredo;Monteiro;TO;Brasil;12386.19;2021-08-02;False
+151;Sra. Maria Flor Lopes;F;792.304.158-04;1995-06-07;carvalholuiz-otavio@example.net;51 2419 9914;93054-245;Estação Brito;4808;;Boa Vista;Pinto da Serra;MS;Brasil;16805.64;2025-12-13;False
+152;Nicolas Mendonça;M;760.328.945-92;1995-10-03;luiz-otaviolopes@example.net;+55 11 2447 9179;96741-003;Sítio Casa Grande;5278;Bloco B;Jardim América;Sales;RO;Brasil;14806.39;2022-11-06;True
+153;José Pedro Melo;M;463.851.970-93;1976-09-01;xvargas@example.com;11 6278 6642;25756-904;Estação Casa Grande;940;Apto 101;Varzea Da Palma;Gomes do Galho;RO;Brasil;17859.82;2022-06-19;False
+154;Ana Luiza Oliveira;F;016.937.825-02;1971-03-18;santospedro-henrique@example.org;51 8111 2981;75802-981;Viela Kaique Farias;9952;Apto 101;Vila Da Ária;Garcia do Campo;GO;Brasil;19761.29;2021-12-23;True
+155;Arthur Ribeiro;M;487.103.296-50;1997-10-01;manuela55@example.org;31 5304 1557;88312709;Rua Valentina Cassiano;6837;;Frei Leopoldo;Farias;MS;Brasil;15206.19;2023-12-24;True
+156;Lunna Viana;F;610.258.473-26;1983-04-18;erios@example.org;+55 51 4771 0871;09473-091;Conjunto Ana Julia da Rosa;7632;Apto 101;Minas Brasil;Abreu;RS;Brasil;24729.4;2024-08-14;False
+157;João Gabriel da Mata;M;236.917.085-95;1981-03-26;bento82@example.org;+55 (031) 5446-3751;39111-597;Passarela de Teixeira;2290;Casa;Vila União;da Cunha Alegre;MG;Brasil;11274.9;2024-11-06;True
+158;Jade Abreu;F;037.568.249-00;2003-02-14;camposana-liz@example.org;0800-849-9616;68745-627;Lago Ana Cecília Sousa;4395;Sala 3;Sport Club;Silva;DF;Brasil;6952.16;2024-09-10;True
+159;Sarah Vargas;F;097.254.813-05;1980-01-16;giovanna90@example.org;+55 (071) 0544 7237;20031329;Travessa da Mata;3134;Sala 3;Dom Silverio;Albuquerque;MS;Brasil;15460.98;2022-01-02;False
+160;Luiz Felipe Azevedo;M;384.259.760-65;1966-09-02;vsa@example.net;+55 84 8906-4041;13047707;Praia da Mata;7330;;Vila Coqueiral;Azevedo;MT;Brasil;5751.31;2025-01-28;False
+161;Levi da Costa;M;702.631.549-80;1968-07-30;zmelo@example.com;+55 81 6679 5142;09898991;Aeroporto Aylla Moreira;5338;;Horto Florestal;Mendonça de Pacheco;AL;Brasil;3863.27;2022-12-13;True
+162;Lunna Nunes;F;825.641.703-07;1976-09-02;fariasbenicio@example.net;0300-563-7507;40474-857;Colônia Vasconcelos;3532;;Vila Independencia 2ª Seção;da Mata;AM;Brasil;5606.7;2023-04-15;False
+163;Isabela da Cruz;F;150.489.732-32;1983-11-28;ialbuquerque@example.com;0800 370 1697;78290-044;Rua de Ramos;2819;;Nova America;da Luz Grande;RR;Brasil;24555.64;2025-05-10;True
+164;Carlos Eduardo Ferreira;M;419.876.532-46;1985-06-25;naparecida@example.net;+55 (081) 4538-9061;83869396;Esplanada Azevedo;1672;Bloco B;Serra;Moura do Amparo;MT;Brasil;22437.02;2025-06-24;True
+165;Marcela Siqueira;F;761.849.320-04;1956-07-26;amandaduarte@example.net;+55 (011) 8240 2501;88884036;Lagoa Catarina Albuquerque;2799;Bloco B;Ouro Preto;Borges;DF;Brasil;19473.59;2023-09-16;False
+166;Agatha Camargo;F;203.918.754-50;1961-11-07;theo91@example.net;41 5185 4015;99994-649;Feira Lucas Andrade;370;Sala 3;Ipe;Vieira;RJ;Brasil;12956.0;2021-03-07;False
+167;Srta. Alice Cassiano;F;724.106.853-07;1978-05-03;barrosbeatriz@example.org;84 1883 6635;26758965;Jardim Aparecida;9848;Apto 101;Renascença;Brito do Campo;RJ;Brasil;22989.01;2023-11-09;True
+168;Sr. Enzo Gabriel Vieira;M;295.803.146-24;1946-11-07;matheusmoreira@example.com;21 0761-4894;91991-494;Esplanada de Novais;3750;Casa;Candelaria;Albuquerque;CE;Brasil;18984.16;2023-11-13;False
+169;Danilo das Neves;M;570.932.648-83;1960-10-15;hadassa69@example.net;(081) 7433-6883;25196-740;Lagoa de Lima;9627;Apto 101;Jardim Guanabara;Nunes do Campo;PR;Brasil;5233.16;2021-05-29;True
+170;Marcos Vinicius Silveira;M;519.820.346-70;1978-08-21;apires@example.net;41 1977-8192;76707-553;Morro de da Conceição;8170;;São Tomaz;da Paz de da Rocha;SC;Brasil;3719.47;2022-04-17;True
+171;Rhavi Moraes;M;394.561.208-05;2003-01-23;evelynabreu@example.com;51 1367 2734;62066-785;Alameda de Pinto;8174;Bloco B;São Bento;Correia;AM;Brasil;6935.6;2022-01-22;True
+172;Melina da Mata;F;124.385.796-09;1988-12-13;larissa08@example.net;(041) 2930-8206;83612153;Vereda Moura;1278;Casa;Monte São José;Nogueira;MS;Brasil;7410.23;2025-04-19;False
+173;Evelyn Lopes;F;084.529.637-00;1979-06-25;hbrito@example.net;+55 61 9932 4281;47416-436;Rua de Dias;3868;Apto 101;Nova Suíça;Barros de Goiás;SE;Brasil;16007.31;2025-09-07;True
+174;Kevin Rocha;M;981.530.467-48;1979-03-15;riosapollo@example.org;+55 (071) 2981 9859;53474193;Vila Pereira;1484;Bloco B;Santa Cruz;Ribeiro;MT;Brasil;13554.01;2025-04-17;False
+175;Cauã Duarte;M;580.497.613-39;1963-03-29;montenegroana-beatriz@example.com;+55 51 2090 0532;10913-007;Setor de Rios;3040;Bloco B;Conjunto São Francisco De Assis;da Luz Alegre;PA;Brasil;9095.13;2021-08-29;True
+176;Maria Laura Fernandes;F;618.274.953-91;1998-02-19;maria-lizgomes@example.net;41 5113 8937;52350-007;Colônia de Abreu;8922;Casa;Novo Ouro Preto;Vieira;RN;Brasil;3752.37;2023-04-11;False
+177;Sr. Carlos Eduardo Vieira;M;169.375.802-40;1971-08-14;vda-rocha@example.com;+55 (051) 5658-4285;88758832;Vereda de Pastor;2318;Casa;Alto Das Antenas;Peixoto da Prata;ES;Brasil;9352.33;2021-06-14;False
+178;Fernanda Ferreira;F;678.214.590-11;1949-08-08;leonardomendes@example.org;(011) 8577 4351;79316391;Praia Dante Pinto;4955;;Palmeiras;Albuquerque;SP;Brasil;17869.43;2025-05-12;False
+179;Sophie Sousa;F;094.725.386-65;1990-11-09;hvargas@example.com;+55 81 0503 0673;57301325;Chácara de Correia;6108;;Vila Santo Antônio Barroquinha;da Rocha do Amparo;MT;Brasil;6923.44;2025-02-07;False
+180;Srta. Melina Abreu;F;419.038.275-23;1980-10-29;sarasilva@example.com;(031) 1810-4796;24446358;Campo Pedro Henrique Caldeira;4382;Sala 3;Renascença;Andrade de Oliveira;TO;Brasil;13885.7;2023-08-12;True
+181;Otto Câmara;M;847.632.519-37;2003-10-19;vargasoliver@example.net;+55 21 3943 8852;06477477;Vila Maria Eduarda da Luz;5682;Casa;Dom Cabral;Pacheco de Goiás;SP;Brasil;21096.17;2023-11-28;False
+182;Laís Sales;F;420.961.375-43;1957-01-26;mendesalicia@example.org;+55 (061) 4756-7281;98631833;Aeroporto de Siqueira;2468;Apto 101;Flavio De Oliveira;da Mota da Serra;ES;Brasil;7146.41;2023-12-06;False
+183;Matteo Guerra;M;547.389.126-82;1984-01-14;macedolara@example.org;0500 555 3693;03091683;Estação de Macedo;7424;Apto 101;Pirineus;Barros;AC;Brasil;20676.09;2022-02-09;True
+184;Ana Liz Aparecida;F;849.350.162-05;1956-09-03;uaparecida@example.com;81 0789-4339;37990-148;Aeroporto Marques;6094;Bloco B;Parque São José;Camargo do Amparo;AL;Brasil;5283.17;2023-06-03;False
+185;Sabrina Castro;F;583.217.946-37;1997-02-28;cirinoluara@example.com;+55 61 1426-0940;67753700;Lago de da Rocha;8759;Bloco B;Nova Cintra;Siqueira;GO;Brasil;17650.98;2022-10-22;True
+186;Sr. Caio Ramos;M;457.218.690-11;1999-10-28;dom58@example.net;+55 21 1884-5575;16870-097;Trecho de da Rosa;7779;Apto 101;Vila Calafate;Moreira de Peixoto;MG;Brasil;17336.36;2022-06-21;True
+187;Breno Pinto;M;938.420.571-05;1945-05-10;lavinia47@example.net;(081) 9347 3249;40334109;Recanto Théo Silveira;9816;Casa;Floresta;Fernandes;AL;Brasil;11952.97;2022-03-30;False
+188;Leonardo Guerra;M;491.278.605-58;1969-10-26;garciabenjamin@example.com;(031) 9804-4554;19139-606;Alameda Gomes;7640;Casa;Conjunto Jatoba;Souza;MG;Brasil;12172.18;2023-08-27;True
+189;Sr. Thiago Souza;M;563.012.798-59;1982-06-15;maria-luizaaragao@example.com;71 8604-2141;32891075;Parque Santos;375;Casa;Itapoa;Castro de Pimenta;PR;Brasil;4631.99;2025-05-29;False
+190;Rodrigo Melo;M;794.853.620-56;1990-05-08;ninacostela@example.com;0300 888 7900;10086836;Praça de Pastor;8054;Apto 101;Glória;Barros;TO;Brasil;17238.52;2025-01-15;True
+191;Ryan Caldeira;M;218.764.539-82;2006-11-17;maria-lauraaraujo@example.com;+55 (041) 6075 5005;91441-208;Favela Rebeca Farias;8695;Apto 101;Conjunto Floramar;Rocha;AM;Brasil;5567.34;2024-07-30;False
+192;Alícia Peixoto;F;653.821.470-35;1959-05-26;castrostephany@example.com;+55 (041) 2968-8874;06192-414;Vereda Lunna Alves;8964;Bloco B;Silveira;da Costa do Galho;AL;Brasil;2822.65;2021-09-10;False
+193;Sra. Hadassa Andrade;F;961.408.327-13;1962-03-06;davi-lucas35@example.com;(041) 6104-5085;37816-662;Quadra Martins;5326;Apto 101;Vitoria Da Conquista;Porto;TO;Brasil;3263.92;2022-01-09;False
+194;Olivia Ferreira;F;451.862.379-73;1995-05-14;lopesfernando@example.net;(051) 7771-2882;00027063;Vila de Lopes;1512;Casa;Petropolis;da Rocha;MA;Brasil;5446.55;2025-11-12;False
+195;Vitória Pinto;F;918.052.647-02;1977-04-22;aabreu@example.org;(071) 8161-1008;52328175;Rua Isaque Rios;7493;Sala 3;Vila Ouro Minas;Nogueira da Mata;CE;Brasil;18965.75;2022-10-28;True
+196;Isaac Nogueira;M;205.986.341-42;1981-04-14;cavalcanteevelyn@example.net;+55 (031) 4840-7571;58923-669;Lagoa Henry Gabriel Macedo;3919;Apto 101;Parque São José;Sampaio de Minas;SE;Brasil;12411.14;2023-06-03;False
+197;Sr. Benjamin Ramos;M;829.674.531-37;1963-03-05;pedro-lucas65@example.com;+55 11 1138-0474;59103451;Fazenda Sampaio;1687;Sala 3;Xodo-Marize;Guerra Verde;CE;Brasil;13116.62;2022-07-12;False
+198;Arthur Miguel Casa Grande;M;280.916.573-40;1987-03-06;hsilva@example.org;61 8081 7932;87488586;Setor de da Cunha;3163;Apto 101;Unidas;Almeida;PR;Brasil;1967.0;2025-06-07;True
+199;Caleb Andrade;M;219.347.058-88;1994-06-04;arthur-miguelcastro@example.net;+55 51 4079 4532;03305970;Travessa Emanuel das Neves;8365;Sala 3;Marieta 3ª Seção;Alves;PA;Brasil;13347.15;2023-04-07;False
+200;Marcela Rodrigues;F;326.180.974-40;1973-05-17;eduarda20@example.net;0800 121 6167;50406193;Praça de Nunes;3142;Casa;Teixeira Dias;da Cunha de da Costa;GO;Brasil;20315.07;2024-06-01;True
